@@ -1,3 +1,8 @@
+[Visit Our Website](https://your-site.com)  
+![Our Logo](https://your-site.com/logo.png)
+
+<!-- AUTO-README-UPDATE -->
+
 # AI Introduction
 Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to intelligence of humans and other animals. Example tasks in which this is done include speech recognition, computer vision, translation between (natural) languages, as well as other mappings of inputs.
 
@@ -102,3 +107,8 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+---
+
+Thank you @microsoft
